@@ -1,0 +1,10 @@
+{
+  "notLunch": "It's not lunch",
+  "butNextLunch": "But next lunch is in",
+  "itsLunch": "It's lunch",
+  "prefix": {
+    "hour": "h",
+    "minute": "m",
+    "second": "s"
+  }
+}

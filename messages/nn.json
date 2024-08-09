@@ -1,0 +1,10 @@
+{
+  "notLunch": "Det er ikkje lunsj",
+  "butNextLunch": "Men neste lunsj er om",
+  "itsLunch": "Det er lunsj",
+  "prefix": {
+    "hour": "t",
+    "minute": "m",
+    "second": "s"
+  }
+}
